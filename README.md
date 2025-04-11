@@ -1,2 +1,2 @@
 # Camp-A
-This repository will be our first, just to check for the functionality of our project.
+This repository will be our second, just to check for the functionality of our project. Whilst keeping it upto date.
